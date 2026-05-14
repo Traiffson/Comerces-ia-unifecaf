@@ -18,7 +18,7 @@
  ┗ 📄 README.md
 
 ## Sobre o Curso
-Grzduação **Tecnólogo em Inteligência Artificial e Automação** com foco prático em **No-Code, Low-Code, Inteligência Artificial Generativa e Automação de Processos Digitais**.
+Graduação **Tecnólogo em Inteligência Artificial e Automação** com foco prático em **No-Code, Low-Code, Inteligência Artificial Generativa e Automação de Processos Digitais**.
 
 ---
 
