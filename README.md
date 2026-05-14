@@ -2,15 +2,6 @@
 
 **Portfólio de Projetos** do curso de **Tecnologia em Inteligência Artificial e Automação Digital** — UniFECAF + Rocketseat
 
-📦 Comerces-ia-unifecaf
- ┣ 📁 extensao-curricular
- ┣ 📁 fundamentos-ia
- ┣ 📁 lowcode-nocode
- ┣ 📁 logica-e-algoritmos
- ┣ 📁 web-basics
- ┣ 📁 projetos
- ┗ 📄 README.md
-
 ![Badge](https://img.shields.io/badge/Status-Em%20Andamento-blue?style=flat-square)
 ![Badge](https://img.shields.io/badge/Modalidade-EAD-purple?style=flat-square)
 ![Badge](https://img.shields.io/badge/Turma-Maio%202026-orange?style=flat-square)
@@ -25,6 +16,15 @@ Graduação **Tecnólogo em Inteligência Artificial e Automação** com foco pr
 ---
 
 ## 📂 Estrutura de Pastas
+
+📦 Comerces-ia-unifecaf
+ ┣ 📁 extensao-curricular
+ ┣ 📁 fundamentos-ia
+ ┣ 📁 lowcode-nocode
+ ┣ 📁 logica-e-algoritmos
+ ┣ 📁 web-basics
+ ┣ 📁 projetos
+ ┗ 📄 README.md
 
 - `/extensao-curricular/` → Atividades de Extensão Curricular
 - `/fundamentos-ia/` → Fundamentos de IA Generativa
