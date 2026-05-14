@@ -1,26 +1,27 @@
-# Comerces-ia-unifecaf
-Portfólio e projetos do curso de Tecnologia em Inteligência Artificial e Automação Digital - UniFECAF 2026
 # Comerces IA - UniFECAF
 
-**Portfólio oficial** dos meus projetos do curso de **Tecnologia em Inteligência Artificial e Automação Digital** - UniFECAF + Rocketseat (Turma Maio/2026)
+**Portfólio de Projetos** do curso de **Tecnologia em Inteligência Artificial e Automação Digital** — UniFECAF + Rocketseat
 
-![Badge](https://img.shields.io/badge/Status-Em%20Andamento-blue)
-![Badge](https://img.shields.io/badge/Modalidade-EAD-purple)
-![Badge](https://img.shields.io/badge/Local-Fran%C3%A7a%20%F0%9F%87%AB%F0%9F%87%B7-lightgrey)
+![Badge](https://img.shields.io/badge/Status-Em%20Andamento-blue?style=flat-square)
+![Badge](https://img.shields.io/badge/Modalidade-EAD-purple?style=flat-square)
+![Badge](https://img.shields.io/badge/Turma-Maio%202026-orange?style=flat-square)
+![Badge](https://img.shields.io/badge/Local-Fran%C3%A7a%20%F0%9F%87%AB%F0%9F%87%B7-lightgrey?style=flat-square)
+
+---
 
 ## Sobre o Curso
-Curso tecnólogo de 18 meses com foco em **No-Code, Low-Code, IA Generativa e Automação de Processos**.
+Curso tecnólogo de **18 meses** com foco prático em **No-Code, Low-Code, Inteligência Artificial Generativa e Automação de Processos Digitais**.
 
 ---
 
 ## 📂 Estrutura de Pastas
 
 - `/extensao-curricular/` → Atividades de Extensão Curricular
-- `/fundamentos-ia/` → IA Generativa e Fundamentos
+- `/fundamentos-ia/` → Fundamentos de IA Generativa
 - `/no-code-low-code/` → Projetos No-Code e Low-Code
-- `/algoritmos-logica/` → Lógica de Programação
+- `/algoritmos-logica/` → Lógica de Programação e Algoritmos
 - `/web-basics/` → HTML, CSS e JavaScript básico
-- `/projetos/` → Projetos integradores e portfólio final
+- `/projetos/` → Projetos integradores e principais entregas
 
 ---
 
@@ -29,12 +30,6 @@ Curso tecnólogo de 18 meses com foco em **No-Code, Low-Code, IA Generativa e Au
 - [ ] Engenheiro de Prompts
 - [ ] Integrador de Sistemas Low-Code
 - [ ] Gestor de Produtos Digitais com IA
-
----
-
-**Aluno:** Traiffson  
-**Início:** 06 de Maio de 2026  
-**Local:** França 🇫🇷
 
 ---
 
