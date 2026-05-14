@@ -8,9 +8,17 @@
 ![Badge](https://img.shields.io/badge/Local-Fran%C3%A7a%20%F0%9F%87%AB%F0%9F%87%B7-lightgrey?style=flat-square)
 
 ---
+📦 Comerces-ia-unifecaf
+ ┣ 📁 extensao-curricular
+ ┣ 📁 fundamentos-ia
+ ┣ 📁 lowcode-nocode
+ ┣ 📁 logica-e-algoritmos
+ ┣ 📁 web-basics
+ ┣ 📁 projetos
+ ┗ 📄 README.md
 
 ## Sobre o Curso
-Curso tecnólogo de **18 meses** com foco prático em **No-Code, Low-Code, Inteligência Artificial Generativa e Automação de Processos Digitais**.
+Grzduação **Tecnólogo em Inteligência Artificial e Automação** com foco prático em **No-Code, Low-Code, Inteligência Artificial Generativa e Automação de Processos Digitais**.
 
 ---
 
