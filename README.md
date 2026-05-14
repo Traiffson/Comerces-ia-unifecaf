@@ -10,7 +10,7 @@
 ---
 
 ## Sobre o Curso
-Curso tecnólogo de **18 meses** com foco prático em **No-Code, Low-Code, Inteligência Artificial Generativa e Automação de Processos Digitais**.
+Curso tecnólogo em Inteligência Artificial e Automação com foco prático em **No-Code, Low-Code, Inteligência Artificial Generativa e Automação de Processos Digitais**.
 
 ---
 
