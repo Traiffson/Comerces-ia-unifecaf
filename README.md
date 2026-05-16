@@ -1,46 +1,34 @@
-# Comerces IA - UniFECAF
+# 🎓 Inteligência Artificial & Automação para E-commerce - UniFECAF
 
-**Portfólio de Projetos** do curso de **Tecnologia em Inteligência Artificial e Automação Digital** — UniFECAF + Rocketseat
+Repositório central de estudos, projetos e automações desenvolvidas ao longo da graduação na UniFECAF. O objetivo deste espaço é documentar a evolução acadêmica e aplicar conceitos de IA e Automação Digital no ecossistema de e-commerce e marketing de performance.
 
-![Badge](https://img.shields.io/badge/Status-Em%20Andamento-blue?style=flat-square)
-![Badge](https://img.shields.io/badge/Modalidade-EAD-purple?style=flat-square)
-![Badge](https://img.shields.io/badge/Turma-Maio%202026-orange?style=flat-square)
-![Badge](https://img.shields.io/badge/Local-Fran%C3%A7a%20%F0%9F%87%AB%F0%9F%87%B7-lightgrey?style=flat-square)
+## 🚀 Foco do Repositório
+- **Automação de Processos:** Aplicação de fluxos Low-Code/No-Code para otimização de negócios.
+- **Inteligência Artificial:** Implementação de agentes cognitivos e scripts inteligentes.
+- **Performance Digital:** Análise de funis, conversão (CRO) e arquitetura de páginas voltadas para vendas.
 
----
+## 📁 Organização Cronológica
 
+### 🔹 1º Semestre: Fundamentos e Estrutura
+- **Fundamentos de IA & Automação:** Introdução ao ecossistema de inteligência artificial.
+- **Lógica e Algoritmos:** Desenvolvimento do raciocínio lógico estruturado.
+- **Modelagem de Processos:** Desenho e otimização de fluxos operacionais.
+- **E-commerce & Conversão:** Princípios de marketing de performance e validação de páginas.
 
-## Sobre a Graduação
-Graduação **Tecnólogo em Inteligência Artificial e Automação** com foco prático em **No-Code, Low-Code, Inteligência Artificial Generativa e Automação de Processos Digitais**.
+### 🔹 2º Semestre: Desenvolvimento e Integrações
+- **Programação Aplicada:** Scripts funcionais focados em automação.
+- **Ecossistema Low-Code:** Integrações de plataformas e construção de assistentes virtuais.
+- **Bancos de Dados & APIs:** Estruturação e consumo de dados entre sistemas.
+- **Design de Experiência (UX/UI):** Teoria de usabilidade e interface aplicadas a funis.
 
----
+### 🔹 3º Semestre: Escala e IA Avançada
+- **Agentes Inteligentes:** Engenharia de prompt avançada e fluxos conversacionais automáticos.
+- **Growth & Dados:** Otimização de campanhas e tomada de decisão orientada a métricas.
+- **Automação Comercial:** Escalonamento de processos digitais para e-commerce.
+- **Projeto Integrador:** Desenvolvimento de uma solução real unindo IA e e-commerce.
 
-## 📂 Estrutura de Pastas
-
-📦 Comerces-ia-unifecaf
- ┣ 📁 extensao-curricular
- ┣ 📁 fundamentos-ia
- ┣ 📁 lowcode-nocode
- ┣ 📁 logica-e-algoritmos
- ┣ 📁 web-basics
- ┣ 📁 projetos
- ┗ 📄 README.md
-
-- `/extensao-curricular/` → Atividades de Extensão Curricular
-- `/fundamentos-ia/` → Fundamentos de IA Generativa
-- `/no-code-low-code/` → Projetos No-Code e Low-Code
-- `/algoritmos-logica/` → Lógica de Programação e Algoritmos
-- `/web-basics/` → HTML, CSS e JavaScript básico
-- `/projetos/` → Projetos integradores e principais entregas
-
----
-
-## 🚀 Microcertificações
-- [ ] Especialista em Desenvolvimento Sem Código (No-Code/Low-Code)
-- [ ] Engenheiro de Prompts
-- [ ] Integrador de Sistemas Low-Code
-- [ ] Gestor de Produtos Digitais com IA
-
----
-
-⭐ Última atualização: Maio/2026
+## 🛠️ Tecnologias de Estudo
+- Git & GitHub (Controle de Versão)
+- Inteligência Artificial Generativa
+- Plataformas de Automação Visual e Low-Code
+- Estruturas de Dados e APIs
